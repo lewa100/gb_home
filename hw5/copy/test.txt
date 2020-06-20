@@ -1,0 +1,563 @@
+Where does it come from?
+Contrary to popular belief,
+Lorem Ipsum is not simply random text.
+It has roots in a piece of classical
+Latin literature from 45 BC, making it
+over 2000 years old. Richard McClintock,
+a Latin professor at Hampden-Sydney College
+in Virginia, looked up one of the more
+obscure Latin words, consectetur, from
+a Lorem Ipsum passage, and going through
+the cites of the word in classical literature,
+discovered the undoubtable source.
+*/
+parse error on line 129, column 58: bare " in non-quoted-field
+<<<<< Line: 1 >>>>>
+Domain: .abbott
+Type: generic
+Organization: Abbott Laboratories, Inc.
+
+<<<<< Line: 2 >>>>>
+Domain: .abogado
+Type: generic
+Organization: Top Level Domain Holdings Limited
+
+<<<<< Line: 3 >>>>>
+Domain: .ac
+Type: country-code
+Organization: Network Information Center (AC Domain Registry) c/o Cable and Wireless (Ascension Island)
+
+<<<<< Line: 4 >>>>>
+Domain: .academy
+Type: generic
+Organization: Half Oaks, LLC
+
+<<<<< Line: 5 >>>>>
+Domain: .accountant
+Type: generic
+Organization: dot Accountant Limited
+
+<<<<< Line: 6 >>>>>
+Domain: .accountants
+Type: generic
+Organization: Knob Town, LLC
+
+<<<<< Line: 7 >>>>>
+Domain: .active
+Type: generic
+Organization: The Active Network, Inc
+
+<<<<< Line: 8 >>>>>
+Domain: .actor
+Type: generic
+Organization: United TLD Holdco Ltd.
+
+<<<<< Line: 9 >>>>>
+Domain: .ad
+Type: country-code
+Organization: Andorra Telecom
+
+<<<<< Line: 10 >>>>>
+Domain: .ads
+Type: generic
+Organization: Charleston Road Registry Inc.
+
+<<<<< Line: 11 >>>>>
+Domain: .adult
+Type: generic
+Organization: ICM Registry AD LLC
+
+<<<<< Line: 12 >>>>>
+Domain: .ae
+Type: country-code
+Organization: Telecommunication Regulatory Authority (TRA)
+
+<<<<< Line: 13 >>>>>
+Domain: .aero
+Type: sponsored
+Organization: Societe Internationale de Telecommunications Aeronautique (SITA INC USA)
+
+<<<<< Line: 14 >>>>>
+Domain: .af
+Type: country-code
+Organization: Ministry of Communications and IT
+
+<<<<< Line: 15 >>>>>
+Domain: .afl
+Type: generic
+Organization: Australian Football League
+
+<<<<< Line: 16 >>>>>
+Domain: .ag
+Type: country-code
+Organization: UHSA School of Medicine
+
+<<<<< Line: 17 >>>>>
+Domain: .ai
+Type: country-code
+Organization: Government of Anguilla
+
+<<<<< Line: 18 >>>>>
+Domain: .agency
+Type: generic
+Organization: Steel Falls, LLC
+
+<<<<< Line: 19 >>>>>
+Domain: .airforce
+Type: generic
+Organization: United TLD Holdco Ltd.
+
+<<<<< Line: 20 >>>>>
+Domain: .al
+Type: country-code
+Organization: Electronic and Postal Communications Authority - AKEP
+
+<<<<< Line: 21 >>>>>
+Domain: .allfinanz
+Type: generic
+Organization: Allfinanz Deutsche Vermögensberatung Aktiengesellschaft
+
+<<<<< Line: 22 >>>>>
+Domain: .alsace
+Type: generic
+Organization: REGION D ALSACE
+
+<<<<< Line: 23 >>>>>
+Domain: .am
+Type: country-code
+Organization: Internet Society
+
+<<<<< Line: 24 >>>>>
+Domain: .amsterdam
+Type: generic
+Organization: Gemeente Amsterdam
+
+<<<<< Line: 25 >>>>>
+Domain: .an
+Type: country-code
+Organization: University of Curacao
+
+<<<<< Line: 26 >>>>>
+Domain: .android
+Type: generic
+Organization: Charleston Road Registry Inc.
+
+<<<<< Line: 27 >>>>>
+Domain: .ao
+Type: country-code
+Organization: Faculdade de Engenharia da Universidade Agostinho Neto
+
+<<<<< Line: 28 >>>>>
+Domain: .apartments
+Type: generic
+Organization: June Maple, LLC
+
+<<<<< Line: 29 >>>>>
+Domain: .aq
+Type: country-code
+Organization: Antarctica Network Information Centre Limited
+
+<<<<< Line: 30 >>>>>
+Domain: .aquarelle
+Type: generic
+Organization: Aquarelle.com
+
+<<<<< Line: 31 >>>>>
+Domain: .ar
+Type: country-code
+Organization: Presidencia de la Nación – Secretaría Legal y Técnica
+
+<<<<< Line: 32 >>>>>
+Domain: .archi
+Type: generic
+Organization: STARTING DOT LIMITED
+
+<<<<< Line: 33 >>>>>
+Domain: .army
+Type: generic
+Organization: United TLD Holdco Ltd.
+
+<<<<< Line: 34 >>>>>
+Domain: .arpa
+Type: infrastructure
+Organization: Internet Architecture Board (IAB)
+
+<<<<< Line: 35 >>>>>
+Domain: .as
+Type: country-code
+Organization: AS Domain Registry
+
+<<<<< Line: 36 >>>>>
+Domain: .asia
+Type: sponsored
+Organization: DotAsia Organisation Ltd.
+
+<<<<< Line: 37 >>>>>
+Domain: .associates
+Type: generic
+Organization: Baxter Hill, LLC
+
+<<<<< Line: 38 >>>>>
+Domain: .at
+Type: country-code
+Organization: nic.at GmbH
+
+<<<<< Line: 39 >>>>>
+Domain: .attorney
+Type: generic
+Organization: United TLD Holdco, Ltd
+
+<<<<< Line: 40 >>>>>
+Domain: .au
+Type: country-code
+Organization: .au Domain Administration (auDA)
+
+<<<<< Line: 41 >>>>>
+Domain: .auction
+Type: generic
+Organization: United TLD HoldCo, Ltd.
+
+<<<<< Line: 42 >>>>>
+Domain: .audio
+Type: generic
+Organization: Uniregistry, Corp.
+
+<<<<< Line: 43 >>>>>
+Domain: .autos
+Type: generic
+Organization: DERAutos, LLC
+
+<<<<< Line: 44 >>>>>
+Domain: .aw
+Type: country-code
+Organization: SETAR
+
+<<<<< Line: 45 >>>>>
+Domain: .ax
+Type: country-code
+Organization: Ålands landskapsregering
+
+<<<<< Line: 46 >>>>>
+Domain: .axa
+Type: generic
+Organization: AXA SA
+
+<<<<< Line: 47 >>>>>
+Domain: .az
+Type: country-code
+Organization: IntraNS
+
+<<<<< Line: 48 >>>>>
+Domain: .ba
+Type: country-code
+Organization: Universtiy Telinformatic Centre (UTIC)
+
+<<<<< Line: 49 >>>>>
+Domain: .band
+Type: generic
+Organization: United TLD Holdco, Ltd
+
+<<<<< Line: 50 >>>>>
+Domain: .bank
+Type: generic
+Organization: fTLD Registry Services, LLC
+
+<<<<< Line: 51 >>>>>
+Domain: .bar
+Type: generic
+Organization: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
+
+<<<<< Line: 52 >>>>>
+Domain: .barclaycard
+Type: generic
+Organization: Barclays Bank PLC
+
+<<<<< Line: 53 >>>>>
+Domain: .barclays
+Type: generic
+Organization: Barclays Bank PLC
+
+<<<<< Line: 54 >>>>>
+Domain: .bargains
+Type: generic
+Organization: Half Hallow, LLC
+
+<<<<< Line: 55 >>>>>
+Domain: .bauhaus
+Type: generic
+Organization: Werkhaus GmbH
+
+<<<<< Line: 56 >>>>>
+Domain: .bayern
+Type: generic
+Organization: Bayern Connect GmbH
+
+<<<<< Line: 57 >>>>>
+Domain: .bb
+Type: country-code
+Organization: Government of Barbados Ministry of Economic Affairs and Development Telecommunications Unit
+
+<<<<< Line: 58 >>>>>
+Domain: .bbc
+Type: generic
+Organization: British Broadcasting Corporation
+
+<<<<< Line: 59 >>>>>
+Domain: .bd
+Type: country-code
+Organization: Ministry of Post & Telecommunications Bangladesh Secretariat
+
+<<<<< Line: 60 >>>>>
+Domain: .be
+Type: country-code
+Organization: DNS Belgium vzw/asbl
+
+<<<<< Line: 61 >>>>>
+Domain: .beer
+Type: generic
+Organization: Top Level Domain Holdings Limited
+
+<<<<< Line: 62 >>>>>
+Domain: .berlin
+Type: generic
+Organization: dotBERLIN GmbH & Co. KG
+
+<<<<< Line: 63 >>>>>
+Domain: .best
+Type: generic
+Organization: BestTLD Pty Ltd
+
+<<<<< Line: 64 >>>>>
+Domain: .bf
+Type: country-code
+Organization: ARCE-AutoritÈ de RÈgulation des Communications Electroniques
+
+<<<<< Line: 65 >>>>>
+Domain: .bg
+Type: country-code
+Organization: Register.BG
+
+<<<<< Line: 66 >>>>>
+Domain: .bh
+Type: country-code
+Organization: Telecommunications Regulatory Authority (TRA)
+
+<<<<< Line: 67 >>>>>
+Domain: .bi
+Type: country-code
+Organization: Centre National de l'Informatique
+
+<<<<< Line: 68 >>>>>
+Domain: .bid
+Type: generic
+Organization: dot Bid Limited
+
+<<<<< Line: 69 >>>>>
+Domain: .bike
+Type: generic
+Organization: Grand Hollow, LLC
+
+<<<<< Line: 70 >>>>>
+Domain: .bingo
+Type: generic
+Organization: Sand Cedar, LLC
+
+<<<<< Line: 71 >>>>>
+Domain: .bio
+Type: generic
+Organization: STARTING DOT LIMITED
+
+<<<<< Line: 72 >>>>>
+Domain: .biz
+Type: generic-restricted
+Organization: NeuStar, Inc.
+
+<<<<< Line: 73 >>>>>
+Domain: .bj
+Type: country-code
+Organization: Benin Telecoms S.A.
+
+<<<<< Line: 74 >>>>>
+Domain: .bl
+Type: country-code
+Organization: Not assigned
+
+<<<<< Line: 75 >>>>>
+Domain: .black
+Type: generic
+Organization: Afilias Limited
+
+<<<<< Line: 76 >>>>>
+Domain: .blackfriday
+Type: generic
+Organization: Uniregistry, Corp.
+
+<<<<< Line: 77 >>>>>
+Domain: .bloomberg
+Type: generic
+Organization: Bloomberg IP Holdings LLC
+
+<<<<< Line: 78 >>>>>
+Domain: .blue
+Type: generic
+Organization: Afilias Limited
+
+<<<<< Line: 79 >>>>>
+Domain: .bm
+Type: country-code
+Organization: Registry General Ministry of Labour and Immigration
+
+<<<<< Line: 80 >>>>>
+Domain: .bmw
+Type: generic
+Organization: Bayerische Motoren Werke Aktiengesellschaft
+
+<<<<< Line: 81 >>>>>
+Domain: .bn
+Type: country-code
+Organization: Telekom Brunei Berhad
+
+<<<<< Line: 82 >>>>>
+Domain: .bnpparibas
+Type: generic
+Organization: BNP Paribas
+
+<<<<< Line: 83 >>>>>
+Domain: .bo
+Type: country-code
+Organization: Agencia para el Desarrollo de la Información de la Sociedad en Bolivia
+
+<<<<< Line: 84 >>>>>
+Domain: .boats
+Type: generic
+Organization: DERBoats, LLC
+
+<<<<< Line: 85 >>>>>
+Domain: .bond
+Type: generic
+Organization: Bond University Limited
+
+<<<<< Line: 86 >>>>>
+Domain: .boo
+Type: generic
+Organization: Charleston Road Registry Inc.
+
+<<<<< Line: 87 >>>>>
+Domain: .boutique
+Type: generic
+Organization: Over Galley, LLC
+
+<<<<< Line: 88 >>>>>
+Domain: .bq
+Type: country-code
+Organization: Not assigned
+
+<<<<< Line: 89 >>>>>
+Domain: .br
+Type: country-code
+Organization: Comite Gestor da Internet no Brasil
+
+<<<<< Line: 90 >>>>>
+Domain: .brussels
+Type: generic
+Organization: DNS.be vzw
+
+<<<<< Line: 91 >>>>>
+Domain: .bs
+Type: country-code
+Organization: The College of the Bahamas
+
+<<<<< Line: 92 >>>>>
+Domain: .bt
+Type: country-code
+Organization: Ministry of Information and Communications
+
+<<<<< Line: 93 >>>>>
+Domain: .budapest
+Type: generic
+Organization: Top Level Domain Holdings Limited
+
+<<<<< Line: 94 >>>>>
+Domain: .build
+Type: generic
+Organization: Plan Bee LLC
+
+<<<<< Line: 95 >>>>>
+Domain: .builders
+Type: generic
+Organization: Atomic Madison, LLC
+
+<<<<< Line: 96 >>>>>
+Domain: .business
+Type: generic
+Organization: Spring Cross, LLC
+
+<<<<< Line: 97 >>>>>
+Domain: .buzz
+Type: generic
+Organization: DOTSTRATEGY CO.
+
+<<<<< Line: 98 >>>>>
+Domain: .bv
+Type: country-code
+Organization: UNINETT Norid A/S
+
+<<<<< Line: 99 >>>>>
+Domain: .bw
+Type: country-code
+Organization: Botswana Communications Regulatory Authority (BOCRA)
+
+<<<<< Line: 100 >>>>>
+Domain: .by
+Type: country-code
+Organization: Reliable Software Inc.
+
+<<<<< Line: 101 >>>>>
+Domain: .bz
+Type: country-code
+Organization: University of Belize
+
+<<<<< Line: 102 >>>>>
+Domain: .bzh
+Type: generic
+Organization: Association www.bzh
+
+<<<<< Line: 103 >>>>>
+Domain: .ca
+Type: country-code
+Organization: Canadian Internet Registration Authority (CIRA) Autorite Canadienne pour les Enregistrements Internet (ACEI)
+
+<<<<< Line: 104 >>>>>
+Domain: .cab
+Type: generic
+Organization: Half Sunset, LLC
+
+<<<<< Line: 105 >>>>>
+Domain: .cafe
+Type: generic
+Organization: Pioneer Canyon, LLC
+
+<<<<< Line: 106 >>>>>
+Domain: .cal
+Type: generic
+Organization: Charleston Road Registry Inc.
+
+<<<<< Line: 107 >>>>>
+Domain: .camera
+Type: generic
+Organization: Atomic Maple, LLC
+
+<<<<< Line: 108 >>>>>
+Domain: .camp
+Type: generic
+Organization: Delta Dynamite, LLC
+
+<<<<< Line: 109 >>>>>
+Domain: .cancerresearch
+Type: generic
+Organization: Australian Cancer Research Foundation
+
+<<<<< Line: 110 >>>>>
+Domain: .canon
+Type: generic
+Organization: Canon Inc.
